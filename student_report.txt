@@ -1,0 +1,13 @@
+==============================
+STUDENT PORTFOLIO SUMMARY
+==============================
+
+Average Marks : 100.0
+Highest Score : ('Chemistry', 70, 70)
+Lowest Score : ('Chemistry', 70, 70)
+Activities : 1
+Achievements : 2
+Volunteer Hours : 5
+Volunteer Events : 1
+Completed Goals : 1
+Pending Goals : 0
